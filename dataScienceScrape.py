@@ -22,22 +22,10 @@ def scrape_info():
     # Get the top 10 states to get a DS job in
     top_ten_states = soup.find('div', id='states')
 
-    # # Get the min avg temp
-    # min_temp = avg_temps.find_all('strong')[0].text
-
-    # # Get the max avg temp
-    # max_temp = avg_temps.find_all('strong')[1].text
-
-    # # BONUS: Find the src for the sloth image
-    # relative_image_path = soup.find_all('img')[2]["src"]
-    # sloth_img = url + relative_image_path
-
-    # # Store data in a dictionary
-    # data_science_states = {
-    #     "sloth_img": sloth_img,
-    #     "min_temp": min_temp,
-    #     "max_temp": max_temp
-    # }
+    # Store data in a dictionary
+    data_science_states = {
+        "states": states
+    }
 
     # Close the browser after scraping
     browser.quit()
