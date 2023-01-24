@@ -2,6 +2,8 @@ from splinter import Browser
 from bs4 import BeautifulSoup as bs
 import time
 from webdriver_manager.chrome import ChromeDriverManager
+import sys
+sys.path.append('./opt/anaconda3/lib/python3.9/site-packages')
 
 
 def scrape_info():
