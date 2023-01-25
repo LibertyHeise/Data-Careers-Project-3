@@ -15,8 +15,6 @@ def scrape_info():
     url = "https://www.zippia.com/data-scientist-jobs/best-states/?survey_step=step3"
     browser.visit(url)
 
-    time.sleep(1)
-
     # Scrape page into Soup
     html = browser.html
     soup = bs(html, "html.parser")
@@ -26,7 +24,7 @@ def scrape_info():
 
     # Store data in a dictionary
     data_science_states = {
-        "states": states
+        "data_science_states": top_ten_states
     }
 
     # Close the browser after scraping
@@ -34,3 +32,6 @@ def scrape_info():
 
     # Return results
     return data_science_states
+
+top_ten = scrape_info()
+print(top_ten) 
