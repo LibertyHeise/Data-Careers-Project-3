@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Fetch data from the Flask API
-fetch('/states')
+fetch('http://127.0.0.1:5000/states')
     .then(response => response.json())
     .then(data => {
         // Loop through the data and add markers for each state
