@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Fetch data from the Flask API
-fetch('http://localhost:5000/states', {
+fetch('http://127.0.0.1:5000/states', {
         method: "GET",
         headers: {
             'Content-Type': 'application/json',
