@@ -66,7 +66,7 @@ Nulls are able to be read in Python however they are not able to be read in Java
 
 The JS code, the app.py folder, index.html as well as the database all needed additional CRUD so that they would work together.
 
-
+![image](https://user-images.githubusercontent.com/113858556/214753866-c932c633-3e3d-4351-81e5-ad4335e83751.png)
 
 ## Results
 
