@@ -40,7 +40,6 @@ The data was then imported into MongoDB and we are now on our way to creating ou
 
 ## Website Creation
 
-Difficulty:
 We encountered some diffficulty when attempting to get the javascript code to run on our live server. 
 Occassionally our map would appear however without data points we specified and other times the map would not appear at all.
 
