@@ -60,7 +60,7 @@ Once we closed the servers and reran the code we started pulling in data but it 
 ![Not_Formatted_Correctly](https://user-images.githubusercontent.com/113858556/214751279-a7c91e89-cab4-45b1-8927-c4c43881fa51.png)
 
 We came to the realization that we still had some data cleaning to do, there were quite a few nulls left in our dataset.
-Nulls are able to be read in Python however they were not able to be read in Javascript.
+Nulls are able to be read in Python however they are not able to be read in Javascript.
 
 ![Finding_Nulls](https://user-images.githubusercontent.com/113858556/214751522-4688feec-5be6-4ad6-ba12-36016f8cdfb5.png)
 
