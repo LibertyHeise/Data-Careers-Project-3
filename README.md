@@ -38,6 +38,14 @@ The data was then queried for: entry_level_data_analyst and entry_level_data_sci
 The data was then imported into MongoDB and we are now on our way to creating our website.  The GitHub page was created so our index.html can go live.
 ![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Screenshot%202023-01-25%20at%201.37.48%20PM.png?version%3D1674675546549)
 
+## Website Creation
 
+## Results
+
+
+## Where to Next
+
+
+## Instructions on how to run the code
 
 
