@@ -49,6 +49,9 @@ Once we closed the servers and reran the code we started pulling in data but it 
 We came to the realization that we still had some data cleaning to do, there were quite a few nulls left in our dataset.
 Nulls are able to be read in Python however they were not able to be read in Javascript.
 
+![image](https://user-images.githubusercontent.com/113858556/214741740-d6235e48-fb1a-48b1-b8ab-a9db83c25794.png)
+
+
 The JS code, the app.py folder, index.html as well as the database needed to be edited so that they would work together.
 (Manny's help)
 
