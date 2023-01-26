@@ -1,6 +1,6 @@
 ## Job Availability for Entry-Level Data Scientists and Analysts 
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/computer%20image.jpeg?version%3D1674673106816)
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/Project-3/images/computer%20image.jpeg?version%3D1674697824605)
 
 ## Contributors
 Jeremy Tallant, Liberty Heise, Kaylie Aguilera, Mychele Larson, Eric Martinez
@@ -28,15 +28,15 @@ The website uses API data from Rapid API regarding the United States Job Market,
 ## Difficulties, Data Retrieval and Cleansing
 
 Initially, we struggled to find an API that suited our purposes and was easily accessable.  We were unable to webscrape a website with the best 10 cities for a Data Scientist to get a job due to the fact that they used classes instead of id.  
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Screenshot%202023-01-25%20at%201.16.56%20PM.png?version%3D1674674260643)
+
 
 Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and half the data set using nulls was dropped.  The column for territories was also dropped.  
 
 The data was then queried for: entry_level_data_analyst and entry_level_data_scientists.  Once these were returned, the tables were then merged.  
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Screenshot%202023-01-25%20at%201.30.49%20PM.png?version%3D1674675365942)
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/Project-3/images/Screenshot%202023-01-25%20at%201.30.49%20PM.png?version%3D1674697762515)
 
 The data was then imported into MongoDB and we are now on our way to creating our website.  The GitHub page was created so our index.html can go live.
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Screenshot%202023-01-25%20at%201.37.48%20PM.png?version%3D1674675546549)
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/Project-3/images/Screenshot%202023-01-25%20at%201.37.48%20PM.png?version%3D1674697895994)
 
 ## Website Creation
 
