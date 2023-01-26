@@ -11,6 +11,7 @@ The goal of our website is to allow students of certification programs to query 
 ## API Keys
 In order to run the code within this project, you will need to create an API key from the following website:  https://us-states.p.rapidapi.com/all
 
+![image](https://user-images.githubusercontent.com/113858556/214754155-56d88483-519c-48ed-a637-938794450c92.png)
 
 ## Table of Contents
 1.  Overview of Data
