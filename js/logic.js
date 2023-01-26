@@ -7,8 +7,20 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Fetch data from the Flask API
-fetch('http://127.0.0.1:5000/states')
-    .then(response => response.json())
+fetch('http://127.0.0.1:5000/states', {
+        method: "GET",
+        headers: {
+            'Content-Type': 'application/json',
+        },
+    })
+    .then(response => {
+        if(response.ok) {
+            return response.json();
+        }
+        else {
+            throw new Error(response.statusText);
+        }
+    })
     .then(data => {
         // Loop through the data and add markers for each state
         data.forEach(state => {
@@ -16,4 +28,8 @@ fetch('http://127.0.0.1:5000/states')
                 .bindPopup(state.capital.name)
                 .addTo(map);
         });
+    })
+    .catch(error => {
+        console.log(error);
     });
+
