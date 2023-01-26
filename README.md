@@ -29,6 +29,7 @@ The website uses API data from Rapid API regarding the United States Job Market,
 
 Initially, we struggled to find an API that suited our purposes and was easily accessable.  We were unable to webscrape a website with the best 10 cities for a Data Scientist to get a job due to the fact that they used classes instead of id.  
 
+![image](https://user-images.githubusercontent.com/113858556/214753273-a7f86970-a124-496d-817f-2a1de3271fc0.png)
 
 Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and half the data set using nulls was dropped.  The column for territories was also dropped.  
 
