@@ -43,17 +43,24 @@ The data was then imported into MongoDB and we are now on our way to creating ou
 We encountered some diffficulty when attempting to get the javascript code to run on our live server. 
 Occassionally our map would appear however without data points we specified and other times the map would not appear at all.
 
+![Zoom Meeting 1_25_2023 7_34_57 PM](https://user-images.githubusercontent.com/113858556/214747140-60d81a4a-72c4-4426-a81f-e309e9007f3b.png)
+
+![Zoom Meeting - Team 2 1_25_2023 7_39_40 PM](https://user-images.githubusercontent.com/113858556/214747193-4f4a4178-43a7-4664-b21a-a95e3ccdc709.png)
+
 We accidentally left all the different servers we were running on not allowing our edited code to be read.
 Once we closed the servers and reran the code we started pulling in data but it was not formated correctly.
+
+![Zoom Meeting 1_25_2023 7_33_08 PM](https://user-images.githubusercontent.com/113858556/214747287-41f4e688-6a16-4973-b92d-795941e2ecd9.png)
+
+![Zoom Meeting 1_25_2023 7_36_46 PM](https://user-images.githubusercontent.com/113858556/214747436-dfcef0fc-a0b2-4df5-a785-9623c60b24e8.png)
 
 We came to the realization that we still had some data cleaning to do, there were quite a few nulls left in our dataset.
 Nulls are able to be read in Python however they were not able to be read in Javascript.
 
 ![image](https://user-images.githubusercontent.com/113858556/214741740-d6235e48-fb1a-48b1-b8ab-a9db83c25794.png)
 
+The JS code, the app.py folder, index.html as well as the database all needed additional CRUD so that they would work together.
 
-The JS code, the app.py folder, index.html as well as the database needed to be edited so that they would work together.
-(Manny's help)
 
 
 ## Results
