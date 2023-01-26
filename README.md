@@ -45,7 +45,8 @@ We encountered some diffficulty when attempting to get the javascript code to ru
 Occassionally our map would appear however without data points we specified and other times the map would not appear at all.
 We accidentally left all the different servers we were running on not allowing our edited code to be read.
 Once we closed the servers and reran the code we started pulling in data but it was not formated correctly.
-
+We came to the realization that we still had some data cleaning to do, there were quite a few nulls left in our dataset.
+Nulls are able to be read in Python however they were not able to be read in Javascript.
 The JS code, the app.py folder as well as the index.html needed to be edited so that they would work together, specifically 
    (Manny's help)
 
