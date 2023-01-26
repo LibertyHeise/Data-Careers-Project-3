@@ -1,6 +1,6 @@
 ## Job Availability for Entry-Level Data Scientists and Analysts 
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/Project-3/images/computer%20image.jpeg?version%3D1674697824605)
+![computer image](https://user-images.githubusercontent.com/113858556/214752827-261d6e7b-bc2a-445f-97b2-624f94dac8bb.jpeg)
 
 ## Contributors
 Jeremy Tallant, Liberty Heise, Kaylie Aguilera, Mychele Larson, Eric Martinez
