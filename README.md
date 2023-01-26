@@ -40,6 +40,16 @@ The data was then imported into MongoDB and we are now on our way to creating ou
 
 ## Website Creation
 
+Difficulty:
+We encountered some diffficulty when attempting to get the javascript code to run on our live server. 
+Occassionally our map would appear however without data points we specified and other times the map would not appear at all.
+We accidentally left all the different servers we were running on not allowing our edited code to be read.
+Once we closed the servers and reran the code we started pulling in data but it was not formated correctly.
+
+The JS code, the app.py folder as well as the index.html needed to be edited so that they would work together, specifically 
+   (Manny's help)
+
+
 ## Results
 
 
