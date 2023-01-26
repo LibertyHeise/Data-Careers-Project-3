@@ -32,11 +32,13 @@ Initially, we struggled to find an API that suited our purposes and was easily a
 
 Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and half the data set using nulls was dropped.  The column for territories was also dropped.  
 
-The data was then queried for: entry_level_data_analyst and entry_level_data_scientists.  Once these were returned, the tables were then merged.  
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/Project-3/images/Screenshot%202023-01-25%20at%201.30.49%20PM.png?version%3D1674697762515)
+The data was then queried for: entry_level_data_analyst and entry_level_data_scientists.  Once these were returned, the tables were then merged.
+
+<img width="1162" alt="Screenshot 2023-01-25 at 1 30 49 PM" src="https://user-images.githubusercontent.com/113858556/214752948-881e6d3b-85a3-43af-827f-216dcfaa908e.png">
 
 The data was then imported into MongoDB and we are now on our way to creating our website.  The GitHub page was created so our index.html can go live.
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/Project-3/images/Screenshot%202023-01-25%20at%201.37.48%20PM.png?version%3D1674697895994)
+
+<img width="609" alt="Screenshot 2023-01-25 at 1 37 48 PM" src="https://user-images.githubusercontent.com/113858556/214753004-d822c2b7-2a7e-429a-96a4-70049fbd3f42.png">
 
 ## Website Creation
 
