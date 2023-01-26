@@ -31,7 +31,9 @@ Initially, we struggled to find an API that suited our purposes and was easily a
 
 ![image](https://user-images.githubusercontent.com/113858556/214753273-a7f86970-a124-496d-817f-2a1de3271fc0.png)
 
-Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and half the data set using nulls was dropped.  The column for territories was also dropped.  
+Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and half the data set using nulls was dropped.  The column for territories was also dropped.
+
+![image](https://user-images.githubusercontent.com/113858556/214753463-d4e42876-dd93-4886-aa2c-605db6884576.png)
 
 The data was then queried for: entry_level_data_analyst and entry_level_data_scientists.  Once these were returned, the tables were then merged.
 
