@@ -1,0 +1,98 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+  
+#map,
+body,
+html {
+    height: 600px;
+    width: 100%;
+    padding: 10px;
+}
+
+
+.nav-link:hover {
+  background-color: #17a2b8 !important;
+  color: white !important;
+}
+
+.viz-box:hover {
+  border-color: #17a2b8;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.card-body .active {
+  border-color: #17a2b8;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.navbar-brand {
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.dropdown-item:hover {
+  color: white !important;
+  background-color: #17a2b8 !important;
+}
+
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-wrap {
+  float: left;
+  width: 100%;
+}
+
+#text {
+  text-align: justify;
+  margin: 20px;
+}
+
+.td {
+  font-size: 14px;
+}
+
+.table tbody tr:hover td, .table tbody tr:hover th {
+  color: white !important;
+  background-color: #17a2b8 !important;
+}
+
+
+h4.card-header.text-info {
+  background-color: #17a2b8;
+  color: #f8f8f8!important;
+  ;
+}
+
+h3.card-header.text-info {
+  background-color: #17a2b8;
+  color: #f8f8f8!important;
+  ;
+}
+
+h5.text-info.text-center {
+  color: #17a2b8;
+}
+
+@media (max-width: 768px) {
+  .navbar-light.bg-white {
+      background-color: #17a2b8 !important;
+  }
+  .nav-link {
+      color: white !important;
+  }
+  #img-wrap {
+      float: none;
+  }
+}

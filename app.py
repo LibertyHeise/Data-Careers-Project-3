@@ -1,30 +1,48 @@
-from flask import Flask
+from flask import Flask, jsonify, render_template
 from pymongo import MongoClient
-from bson.json_util import dumps
+from bson.objectid import ObjectId
 
 app = Flask(__name__)
-
-# Connect to the MongoDB server
 client = MongoClient()
-
-# Choose the database you want to use
 db = client.data
 
-@app.route("/states")
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+@app.route("/api/v1.0/states")
 def states():
-    # Retrieve all documents from the "clean_states" collection
-    states_data = list(db.states.find({}))
+    # Retrieve all documents from the "states" collection
+    states_data = list(db.states.find())
+
+    # Convert ObjectId to string
+    for state in states_data:
+        state['_id'] = str(state['_id'])
 
     # Return the data as a JSON object
-    return dumps(states_data)
+    return jsonify(states_data)
 
-@app.route("/jobs")
-def result():
-    # Retrieve all documents from the "result" collection
-    jobs_data = list(db.jobs.find({}))
+
+@app.route("/api/v1.0/jobs")
+def jobs():
+    # Retrieve all documents from the "jobs" collection
+    jobs_data = list(db.jobs.find())
+
+    # Convert ObjectId to string
+    for job in jobs_data:
+        job['_id'] = str(job['_id'])
 
     # Return the data as a JSON object
-    return dumps(jobs_data)
+    return jsonify(jobs_data)
+
+@app.route("/states_table")
+def states_table():
+    return render_template("states.html")
+
+@app.route("/jobs_table")
+def jobs_table():
+    return render_template("jobs.html")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
+
