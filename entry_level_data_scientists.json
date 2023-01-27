@@ -1,6 +1,6 @@
 {
     "status": "OK",
-    "request_id": "4be43820-f5bc-48e4-90e0-8469f9cd9c65",
+    "request_id": "fe7d1aa3-8b11-4898-92b5-1fa1bdb8855f",
     "data": [
         {
             "employer_name": "National Security Agency",
@@ -740,8 +740,8 @@
             "job_latitude": 39.739235,
             "job_longitude": -104.99025,
             "job_benefits": [
-                "retirement_savings",
                 "dental_coverage",
+                "retirement_savings",
                 "paid_time_off",
                 "health_insurance"
             ],
@@ -787,78 +787,6 @@
                 "Benefits": [
                     "Career development and promotional growth opportunities",
                     "A diverse and comprehensive benefits offering including medical, dental vision, 401K, PTO and more"
-                ]
-            }
-        },
-        {
-            "employer_name": "Eurofins USA BioPharma Services",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1ewezGt0T_y6g5IZ0ZW5WxpZcBwT8tEgDhtc&s=0",
-            "employer_website": null,
-            "job_publisher": "WayUp",
-            "job_id": "S_5C05pe-h8AAAAAAAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Cell and Molecular Biology Data Review Scientist Entry Level Opportunity",
-            "job_apply_link": "https://www.wayup.com/i-j-Eurofins-USA-BioPharma-Services-012361931190233/",
-            "job_description": "Job Description\n\nEMPLOYEE RESPONSIBILITIES:\n\u2022 Ensure that the client receives quality data by reviewing laboratory data for accuracy, clarity, and adherence to GMP and/or GLP regulations\n\u2022 Work efficiently, document work clearly, and perform duties accurately\n\nQualifications:\nQualifications\n\nTHE IDEAL CANDIDATE WOULD POSSESS:\n\u2022 Strong computer, scientific, and organizational skills\n\u2022 Excellent communication (oral and written) and attention to detail\n\u2022 Ability to work independently and as part of a team, self-motivation, adaptability, and a positive attitude\n\u2022 Ability to learn new techniques, perform multiple tasks simultaneously, keep accurate records, follow instructions, and comply with company policies\n\u2022 Theoretical understanding of protein or chemistry related techniques\n\nQualifications\n\u2022 **THIS IS NOT A CODING POSISTION ***\n\nMINIMUM QUALIFICATIONS:\n\u2022 Bachelor's degree in biochemistry, biology, chemistry, protein chemistry, or other related degree concentration\n\u2022 Authorization to work in the United States indefinitely without restriction or sponsorship\n\nAdditional Information\n\nPosition is full-time, Monday - Friday 8:00am - 5:00pm.\u00c2 Candidates currently living within a commutable distance of Lancaster, Pa\u00c2 are encouraged to apply.\n\u2022 Excellent full time benefits including comprehensive medical coverage, dental, and vision options\n\u2022 Life and disability insurance\n\u2022 401(k) with company match\n\u2022 15 days Paid vacation and 10 paid holidays\n\nEUROFINS IS A M/F, DISABLED, AND VETERAN EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION EMPLOYER.\n\nEUROFINS IS A M/F, DISABLED, AND VETERAN EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION EMPLOYER.",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1672808476,
-            "job_posted_at_datetime_utc": "2023-01-04T05:01:16.000Z",
-            "job_city": "Lancaster",
-            "job_state": "PA",
-            "job_country": "US",
-            "job_latitude": 40.037876,
-            "job_longitude": -76.30551,
-            "job_benefits": [
-                "paid_time_off",
-                "retirement_savings",
-                "dental_coverage",
-                "health_insurance"
-            ],
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=S_5C05pe-h8AAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": null,
-            "job_offer_expiration_timestamp": null,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": false,
-                "experience_preferred": false
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": true,
-                "degree_preferred": true,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Strong computer, scientific, and organizational skills",
-                    "Excellent communication (oral and written) and attention to detail",
-                    "Ability to work independently and as part of a team, self-motivation, adaptability, and a positive attitude",
-                    "Ability to learn new techniques, perform multiple tasks simultaneously, keep accurate records, follow instructions, and comply with company policies",
-                    "Theoretical understanding of protein or chemistry related techniques",
-                    "**THIS IS NOT A CODING POSISTION ***",
-                    "Bachelor's degree in biochemistry, biology, chemistry, protein chemistry, or other related degree concentration",
-                    "Authorization to work in the United States indefinitely without restriction or sponsorship"
-                ],
-                "Responsibilities": [
-                    "Ensure that the client receives quality data by reviewing laboratory data for accuracy, clarity, and adherence to GMP and/or GLP regulations",
-                    "Work efficiently, document work clearly, and perform duties accurately"
-                ],
-                "Benefits": [
-                    "Excellent full time benefits including comprehensive medical coverage, dental, and vision options",
-                    "Life and disability insurance",
-                    "401(k) with company match",
-                    "15 days Paid vacation and 10 paid holidays"
                 ]
             }
         },
@@ -1001,8 +929,8 @@
             "job_benefits": [
                 "health_insurance",
                 "dental_coverage",
-                "paid_time_off",
-                "retirement_savings"
+                "retirement_savings",
+                "paid_time_off"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=OVlLx29xNioAAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": null,
@@ -1065,6 +993,78 @@
                     "Pay increment and frequency of pay will be in accordance with employment classification and applicable laws",
                     "For part time roles, your compensation and benefits will be adjusted to reflect your hours",
                     "Benefits may be pro-rated for those who start working during the calendar year"
+                ]
+            }
+        },
+        {
+            "employer_name": "Eurofins USA BioPharma Services",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1ewezGt0T_y6g5IZ0ZW5WxpZcBwT8tEgDhtc&s=0",
+            "employer_website": null,
+            "job_publisher": "WayUp",
+            "job_id": "S_5C05pe-h8AAAAAAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Cell and Molecular Biology Data Review Scientist Entry Level Opportunity",
+            "job_apply_link": "https://www.wayup.com/i-j-Eurofins-USA-BioPharma-Services-012361931190233/",
+            "job_description": "Job Description\n\nEMPLOYEE RESPONSIBILITIES:\n\u2022 Ensure that the client receives quality data by reviewing laboratory data for accuracy, clarity, and adherence to GMP and/or GLP regulations\n\u2022 Work efficiently, document work clearly, and perform duties accurately\n\nQualifications:\nQualifications\n\nTHE IDEAL CANDIDATE WOULD POSSESS:\n\u2022 Strong computer, scientific, and organizational skills\n\u2022 Excellent communication (oral and written) and attention to detail\n\u2022 Ability to work independently and as part of a team, self-motivation, adaptability, and a positive attitude\n\u2022 Ability to learn new techniques, perform multiple tasks simultaneously, keep accurate records, follow instructions, and comply with company policies\n\u2022 Theoretical understanding of protein or chemistry related techniques\n\nQualifications\n\u2022 **THIS IS NOT A CODING POSISTION ***\n\nMINIMUM QUALIFICATIONS:\n\u2022 Bachelor's degree in biochemistry, biology, chemistry, protein chemistry, or other related degree concentration\n\u2022 Authorization to work in the United States indefinitely without restriction or sponsorship\n\nAdditional Information\n\nPosition is full-time, Monday - Friday 8:00am - 5:00pm.\u00c2 Candidates currently living within a commutable distance of Lancaster, Pa\u00c2 are encouraged to apply.\n\u2022 Excellent full time benefits including comprehensive medical coverage, dental, and vision options\n\u2022 Life and disability insurance\n\u2022 401(k) with company match\n\u2022 15 days Paid vacation and 10 paid holidays\n\nEUROFINS IS A M/F, DISABLED, AND VETERAN EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION EMPLOYER.\n\nEUROFINS IS A M/F, DISABLED, AND VETERAN EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION EMPLOYER.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1672808476,
+            "job_posted_at_datetime_utc": "2023-01-04T05:01:16.000Z",
+            "job_city": "Lancaster",
+            "job_state": "PA",
+            "job_country": "US",
+            "job_latitude": 40.037876,
+            "job_longitude": -76.30551,
+            "job_benefits": [
+                "retirement_savings",
+                "dental_coverage",
+                "health_insurance",
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=S_5C05pe-h8AAAAAAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": false,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Strong computer, scientific, and organizational skills",
+                    "Excellent communication (oral and written) and attention to detail",
+                    "Ability to work independently and as part of a team, self-motivation, adaptability, and a positive attitude",
+                    "Ability to learn new techniques, perform multiple tasks simultaneously, keep accurate records, follow instructions, and comply with company policies",
+                    "Theoretical understanding of protein or chemistry related techniques",
+                    "**THIS IS NOT A CODING POSISTION ***",
+                    "Bachelor's degree in biochemistry, biology, chemistry, protein chemistry, or other related degree concentration",
+                    "Authorization to work in the United States indefinitely without restriction or sponsorship"
+                ],
+                "Responsibilities": [
+                    "Ensure that the client receives quality data by reviewing laboratory data for accuracy, clarity, and adherence to GMP and/or GLP regulations",
+                    "Work efficiently, document work clearly, and perform duties accurately"
+                ],
+                "Benefits": [
+                    "Excellent full time benefits including comprehensive medical coverage, dental, and vision options",
+                    "Life and disability insurance",
+                    "401(k) with company match",
+                    "15 days Paid vacation and 10 paid holidays"
                 ]
             }
         },
@@ -1160,9 +1160,9 @@
             "job_longitude": -76.30551,
             "job_benefits": [
                 "retirement_savings",
+                "health_insurance",
                 "paid_time_off",
-                "dental_coverage",
-                "health_insurance"
+                "dental_coverage"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=smpD99p57fEAAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-02-20T04:06:51.000Z",
@@ -1234,9 +1234,9 @@
             "job_latitude": 42.201153,
             "job_longitude": -85.58,
             "job_benefits": [
+                "dental_coverage",
                 "health_insurance",
                 "paid_time_off",
-                "dental_coverage",
                 "retirement_savings"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=Va7NJJxj7tgAAAAAAAAAAA%3D%3D",
@@ -1425,31 +1425,31 @@
             }
         },
         {
-            "employer_name": "Synergistic IT",
-            "employer_logo": null,
+            "employer_name": "Staffigo",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUzSJLkUwWZK-6qglTi6wyROWJgiOIW_5FvYp&s=0",
             "employer_website": null,
-            "job_publisher": "Jooble",
-            "job_id": "PtoDoQnZnjgAAAAAAAAAAA==",
+            "job_publisher": "LinkedIn",
+            "job_id": "JrHVfmmxn4sAAAAAAAAAAA==",
             "job_employment_type": "FULLTIME",
-            "job_title": "Entry level data scientist",
-            "job_apply_link": "https://jooble.org/jdp/-7269870817535516091/Entry-level-data-scientist-California-City%2C-CA",
-            "job_description": "SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need\n\nWe are looking for Jobseekers wanting to file H1b visa\nPosition open to all visas and US citizens\n\nWe at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few.\n\nWe have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java developers, Data analysts/ Data Scientists.\n\nWe welcome candidates with all visas and citizens to apply.\n\nWe assist in filing for STEM extension and also for H1b and Green card filing to Candidates looking to upskill/enhance their IT skills.\n\nCandidates who are serious about their future in the IT Industry and have set big goals for themselves.\n\nCandidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes\n\nCandidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement\n\nWe are looking for Jobseekers wanting to file H1b visa\nPosition open to all visas and US citizens\n\nCandidates who Lack Experience\nHave had a break in careers\nLack Technical Competency\nDifferent visa candidates who want to get employed and settle down in the USA\n\nplease also check the below links\n\nREQUIRED SKILLS\n\u2022 Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n\u2022 Highly motivated, self-learner, and technically inquisitive\n\u2022 Experience in programming language Java and understanding of the software development life cycle\n\u2022 Knowledge of Statistics, Python, data visualization tools\n\u2022 Excellent written and verbal communication skills\nPreferred skills: NLP, Text mining, Tableau, Time series analysis\nPlease understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.\n\nNo third party candidates or c2c candidates\nTo apply for this position, please apply to the posting\n\nNo phone calls please . Shortlisted candidates would be reached out",
+            "job_title": "Entry Level Data Analyst",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-staffigo-3407954873",
+            "job_description": "About Us\n\nStaffigo is in the business of providing IT Consulting Services to clients in various industries in the United States - Healthcare (Payer, Providers & Clearinghouses), Finance & Banking, Retail & e-commerce. We are currently seeking exceptional entry-level talent for the below role.\n\nJob Description\n\u2022 Transferring data from different files and database systems\n\u2022 Entering data into database software and checking to ensure accuracy of the data that has been inputted\n\u2022 Verify data by comparing it to source documents\n\u2022 Resolving discrepancies in information and obtaining further information for incomplete items\n\u2022 Updating existing data\n\u2022 Responding to information requests from authorized members\n\u2022 Interpreting data, analyzing results using statistical techniques\n\u2022 Developing and implementing data analyses, data collection systems and other strategies that optimize statistical efficiency and quality\n\u2022 Creating reports based on data entry including charts and graphs\n\u2022 Identify, analyze, and interpret trends or patterns in data sets\n\u2022 Work with management to prioritize business and information needs\n\u2022 Locate and define new process improvement opportunities\n\nRequirements\n\u2022 Masters degree in Computer Science, Computer Engineering, or any\n\u2022 related field of study.\n\u2022 No travel; no telecommuting. Job duties are project-based and performed on long-term assignments at\n\u2022 various unanticipated sites within the U.S. which may require relocation at the end of each project.\n\u2022 Excellent knowledge in SQL, Python, or other programming languages\n\u2022 Strong analytical skills with the ability to collect, organize, analyze, and disseminate information with attention to detail and accuracy\n\u2022 Strong organization skills\n\u2022 Adept at queries, report writing, and presenting findings\n\u2022 Able to manage time wisely to meet deadlines\n\nWe do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.\n\nPowered by JazzHR\n\n644AxirdNf",
             "job_is_remote": false,
-            "job_posted_at_timestamp": 1674345600,
-            "job_posted_at_datetime_utc": "2023-01-22T00:00:00.000Z",
-            "job_city": "California City",
-            "job_state": "CA",
+            "job_posted_at_timestamp": 1669440159,
+            "job_posted_at_datetime_utc": "2022-11-26T05:22:39.000Z",
+            "job_city": "Cedar Rapids",
+            "job_state": "IA",
             "job_country": "US",
-            "job_latitude": 35.1258,
-            "job_longitude": -117.9859,
+            "job_latitude": 41.97788,
+            "job_longitude": -91.66563,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=PtoDoQnZnjgAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": null,
-            "job_offer_expiration_timestamp": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=JrHVfmmxn4sAAAAAAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-02-19T23:28:00.000Z",
+            "job_offer_expiration_timestamp": 1676849280,
             "job_required_experience": {
                 "no_experience_required": false,
                 "required_experience_in_months": null,
-                "experience_mentioned": true,
+                "experience_mentioned": false,
                 "experience_preferred": false
             },
             "job_required_skills": null,
@@ -1458,7 +1458,7 @@
                 "professional_certification": false,
                 "high_school": false,
                 "associates_degree": false,
-                "bachelors_degree": false,
+                "bachelors_degree": true,
                 "degree_mentioned": true,
                 "degree_preferred": true,
                 "professional_certification_mentioned": false
@@ -1470,13 +1470,28 @@
             "job_salary_period": null,
             "job_highlights": {
                 "Qualifications": [
-                    "Different visa candidates who want to get employed and settle down in the USA",
-                    "Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
-                    "Highly motivated, self-learner, and technically inquisitive",
-                    "Experience in programming language Java and understanding of the software development life cycle",
-                    "Knowledge of Statistics, Python, data visualization tools",
-                    "Excellent written and verbal communication skills",
-                    "Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients"
+                    "Masters degree in Computer Science, Computer Engineering, or any",
+                    "related field of study",
+                    "No travel; no telecommuting",
+                    "Excellent knowledge in SQL, Python, or other programming languages",
+                    "Strong analytical skills with the ability to collect, organize, analyze, and disseminate information with attention to detail and accuracy",
+                    "Adept at queries, report writing, and presenting findings",
+                    "We do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law"
+                ],
+                "Responsibilities": [
+                    "Transferring data from different files and database systems",
+                    "Entering data into database software and checking to ensure accuracy of the data that has been inputted",
+                    "Verify data by comparing it to source documents",
+                    "Resolving discrepancies in information and obtaining further information for incomplete items",
+                    "Updating existing data",
+                    "Responding to information requests from authorized members",
+                    "Interpreting data, analyzing results using statistical techniques",
+                    "Developing and implementing data analyses, data collection systems and other strategies that optimize statistical efficiency and quality",
+                    "Creating reports based on data entry including charts and graphs",
+                    "Identify, analyze, and interpret trends or patterns in data sets",
+                    "Work with management to prioritize business and information needs",
+                    "Locate and define new process improvement opportunities",
+                    "various unanticipated sites within the U.S. which may require relocation at the end of each project"
                 ]
             }
         },
@@ -1555,31 +1570,31 @@
             }
         },
         {
-            "employer_name": "Staffigo",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUzSJLkUwWZK-6qglTi6wyROWJgiOIW_5FvYp&s=0",
+            "employer_name": "Synergistic IT",
+            "employer_logo": null,
             "employer_website": null,
-            "job_publisher": "LinkedIn",
-            "job_id": "JrHVfmmxn4sAAAAAAAAAAA==",
+            "job_publisher": "Houston, TX - Geebo",
+            "job_id": "etQdHKE_cBcAAAAAAAAAAA==",
             "job_employment_type": "FULLTIME",
-            "job_title": "Entry Level Data Analyst",
-            "job_apply_link": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-staffigo-3407954873",
-            "job_description": "About Us\n\nStaffigo is in the business of providing IT Consulting Services to clients in various industries in the United States - Healthcare (Payer, Providers & Clearinghouses), Finance & Banking, Retail & e-commerce. We are currently seeking exceptional entry-level talent for the below role.\n\nJob Description\n\u2022 Transferring data from different files and database systems\n\u2022 Entering data into database software and checking to ensure accuracy of the data that has been inputted\n\u2022 Verify data by comparing it to source documents\n\u2022 Resolving discrepancies in information and obtaining further information for incomplete items\n\u2022 Updating existing data\n\u2022 Responding to information requests from authorized members\n\u2022 Interpreting data, analyzing results using statistical techniques\n\u2022 Developing and implementing data analyses, data collection systems and other strategies that optimize statistical efficiency and quality\n\u2022 Creating reports based on data entry including charts and graphs\n\u2022 Identify, analyze, and interpret trends or patterns in data sets\n\u2022 Work with management to prioritize business and information needs\n\u2022 Locate and define new process improvement opportunities\n\nRequirements\n\u2022 Masters degree in Computer Science, Computer Engineering, or any\n\u2022 related field of study.\n\u2022 No travel; no telecommuting. Job duties are project-based and performed on long-term assignments at\n\u2022 various unanticipated sites within the U.S. which may require relocation at the end of each project.\n\u2022 Excellent knowledge in SQL, Python, or other programming languages\n\u2022 Strong analytical skills with the ability to collect, organize, analyze, and disseminate information with attention to detail and accuracy\n\u2022 Strong organization skills\n\u2022 Adept at queries, report writing, and presenting findings\n\u2022 Able to manage time wisely to meet deadlines\n\nWe do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.\n\nPowered by JazzHR\n\n644AxirdNf",
+            "job_title": "ENTRY LEVEL DATA SCIENTIST",
+            "job_apply_link": "https://houston-tx.geebo.com/jobs-online/view/id/1273731600-entry-level-data-scientist-/",
+            "job_description": "SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need\nPosition open for all visas and US citizens\nWe at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few.\nWe have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java developers, Data analysts/ Data Scientists.\nWho Should Apply Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry\nWe welcome candidates with all visas and citizens to apply.\nWe assist in filing for STEM extension and also for H1b and Green card filing to Candidates\nCandidates who are serious about their future in the IT Industry and have set big goals for themselves.\nCandidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes\nCandidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement\nCandidates who Lack Experience\nHave had a break in careers\nLack Technical Competency\nDifferent visa candidates who want to get employed and settle down in the USA\nplease also check the below links\nhttps:\n//www.synergisticit.com/candidate-outcomes/\nhttps:\n//www.synergisticit.com/java-track/\nhttps:\n//www.synergisticit.com/data-science-track/\nhttps:\n//www.synergisticit.com/which-is-the-best-option-for-tech-job-seekers-staffing-companies-consulting-companies-bootcamps-or-synergisticit/\nhttps:\n//www.synergisticit.com/contact-us/\nIf not a match candidates can opt for Skill enhancement\nREQUIRED SKILLS For java /Software Programmers\n\u2022 Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n\u2022 Highly motivated, self-learner, and technically inquisitive\n\u2022 Experience in programming language Java and understanding of the software development life cycle\n\u2022 Knowledge of Core Java , javascript , C+\nor software programming\n\u2022 Spring boot, Microservices and REST API's experience\n\u2022 Excellent written and verbal communication skills\nFor data Science/Machine learning\nREQUIRED SKILLS\n\u2022 Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n\u2022 Highly motivated, self-learner, and technically inquisitive\n\u2022 Experience in programming language Java and understanding of the software development life cycle\n\u2022 Knowledge of Statistics, Python, data visualization tools\n\u2022 Excellent written and verbal communication skills\nPreferred skills:\nNLP, Text mining, Tableau, Time series analysis\nPlease understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.\nNo third party candidates or c2c candidates\nPlease understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.\nNo third party candidates or c2c candidates\nplease apply to the posting\nNo phone calls please. Shortlisted candidates would be reached out\nEstimated Salary: $20 to $28 per hour based on qualifications.",
             "job_is_remote": false,
-            "job_posted_at_timestamp": 1669440159,
-            "job_posted_at_datetime_utc": "2022-11-26T05:22:39.000Z",
-            "job_city": "Cedar Rapids",
-            "job_state": "IA",
+            "job_posted_at_timestamp": 1674604800,
+            "job_posted_at_datetime_utc": "2023-01-25T00:00:00.000Z",
+            "job_city": "Houston",
+            "job_state": "TX",
             "job_country": "US",
-            "job_latitude": 41.97788,
-            "job_longitude": -91.66563,
+            "job_latitude": 29.760427,
+            "job_longitude": -95.369804,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=JrHVfmmxn4sAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-02-19T23:28:00.000Z",
-            "job_offer_expiration_timestamp": 1676849280,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=etQdHKE_cBcAAAAAAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-02-01T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1675209600,
             "job_required_experience": {
                 "no_experience_required": false,
                 "required_experience_in_months": null,
-                "experience_mentioned": false,
+                "experience_mentioned": true,
                 "experience_preferred": false
             },
             "job_required_skills": null,
@@ -1588,40 +1603,31 @@
                 "professional_certification": false,
                 "high_school": false,
                 "associates_degree": false,
-                "bachelors_degree": true,
+                "bachelors_degree": false,
                 "degree_mentioned": true,
                 "degree_preferred": true,
                 "professional_certification_mentioned": false
             },
             "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
+            "job_min_salary": 20,
+            "job_max_salary": 28,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
             "job_highlights": {
                 "Qualifications": [
-                    "Masters degree in Computer Science, Computer Engineering, or any",
-                    "related field of study",
-                    "No travel; no telecommuting",
-                    "Excellent knowledge in SQL, Python, or other programming languages",
-                    "Strong analytical skills with the ability to collect, organize, analyze, and disseminate information with attention to detail and accuracy",
-                    "Adept at queries, report writing, and presenting findings",
-                    "We do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law"
+                    "Different visa candidates who want to get employed and settle down in the USA",
+                    "Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
+                    "Highly motivated, self-learner, and technically inquisitive",
+                    "Experience in programming language Java and understanding of the software development life cycle",
+                    "Knowledge of Core Java , javascript , C+",
+                    "Spring boot, Microservices and REST API's experience",
+                    "Excellent written and verbal communication skills",
+                    "For data Science/Machine learning",
+                    "Knowledge of Statistics, Python, data visualization tools",
+                    "Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients"
                 ],
-                "Responsibilities": [
-                    "Transferring data from different files and database systems",
-                    "Entering data into database software and checking to ensure accuracy of the data that has been inputted",
-                    "Verify data by comparing it to source documents",
-                    "Resolving discrepancies in information and obtaining further information for incomplete items",
-                    "Updating existing data",
-                    "Responding to information requests from authorized members",
-                    "Interpreting data, analyzing results using statistical techniques",
-                    "Developing and implementing data analyses, data collection systems and other strategies that optimize statistical efficiency and quality",
-                    "Creating reports based on data entry including charts and graphs",
-                    "Identify, analyze, and interpret trends or patterns in data sets",
-                    "Work with management to prioritize business and information needs",
-                    "Locate and define new process improvement opportunities",
-                    "various unanticipated sites within the U.S. which may require relocation at the end of each project"
+                "Benefits": [
+                    "Estimated Salary: $20 to $28 per hour based on qualifications"
                 ]
             }
         },
@@ -1644,8 +1650,8 @@
             "job_latitude": 38.907192,
             "job_longitude": -77.03687,
             "job_benefits": [
-                "paid_time_off",
-                "health_insurance"
+                "health_insurance",
+                "paid_time_off"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=DPJ5JBWIXacAAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-03-06T03:30:54.000Z",
@@ -2078,6 +2084,75 @@
             }
         },
         {
+            "employer_name": "Dice",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlgydP7sElaJC9qPrtNHwBhyTMHYgii1RPWsy&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "8OGvMZHsGJQAAAAAAAAAAA==",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "Data Scientist (remote work)",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/data-scientist-remote-work-at-dice-3442772637",
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Everest Consultants, Inc, is seeking the following. Apply via Dice today!\n\nTitle: Data Scientist (100% remote work)\n\nDuration: 3 Month Contract - w/Potential for Hire\n\nPayrate: $55 to $64/hr may vary based on experience (W-2 only)\n\nNOTE - W-2 only (No 1099 or C2C)\n\nNOTE - Must reside and work from one of these states - AZ, CA, CO, FL, IA, GA, IL, MA, MI, MS, NE, NH, NJ, NY, NC, OR, PA, SD, TN, TX, WA, WI\n\nSummary:\n\nInterpret and analyze data using exploratory mathematical and statistical techniques based on the scientific method\n\nAnalyzing customer data to identify patterns and trends that are associated along with churn.\n\nResponsibilities:\n\nApply statistical and machine learning knowledge to specific business problems and data.\n\nBuilding and maintaining predictive and churn models.\n\nEvaluating the performance of predictive, time series, regression, churn models, Neural networks and implementing improvements as needed\n\nCommunicating findings and recommendations to stakeholders through presentations, reports, and other forms of communication\n\nSkills:\n\nWrite code (Python, R, Scala, SQL, etc.) to obtain, manipulate, and analyze data\n\nFamiliar with Data Science/ML stack such as AWS Sagemaker, Jupyter, pandas, numpy, sklearn, Keras, etc.\n\nFamiliar with AWS Data Engineering stack such as Glue, Spark, EMR, Lambda, EKS, etc.\n\nFamiliar with DataRobot\n\nThe following benefits are offered for this position: medical, dental, & vision insurance, short-term disability, life and AD&D insurance, and a 401(k) retirement plan.\n\nEverest Consultants is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, or any other characteristic protected by applicable local, state, or federal civil rights laws. - provided by Dice",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1674507742,
+            "job_posted_at_datetime_utc": "2023-01-23T21:02:22.000Z",
+            "job_city": "Des Moines",
+            "job_state": "IA",
+            "job_country": "US",
+            "job_latitude": 41.586834,
+            "job_longitude": -93.62496,
+            "job_benefits": [
+                "health_insurance",
+                "dental_coverage",
+                "retirement_savings"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=30&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=8OGvMZHsGJQAAAAAAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-02-22T21:02:22.000Z",
+            "job_offer_expiration_timestamp": 1677099742,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Write code (Python, R, Scala, SQL, etc.)",
+                    "Familiar with Data Science/ML stack such as AWS Sagemaker, Jupyter, pandas, numpy, sklearn, Keras, etc",
+                    "Familiar with AWS Data Engineering stack such as Glue, Spark, EMR, Lambda, EKS, etc",
+                    "Familiar with DataRobot"
+                ],
+                "Responsibilities": [
+                    "Interpret and analyze data using exploratory mathematical and statistical techniques based on the scientific method",
+                    "Analyzing customer data to identify patterns and trends that are associated along with churn",
+                    "Apply statistical and machine learning knowledge to specific business problems and data",
+                    "Building and maintaining predictive and churn models",
+                    "Evaluating the performance of predictive, time series, regression, churn models, Neural networks and implementing improvements as needed",
+                    "Communicating findings and recommendations to stakeholders through presentations, reports, and other forms of communication",
+                    "to obtain, manipulate, and analyze data"
+                ],
+                "Benefits": [
+                    "Payrate: $55 to $64/hr may vary based on experience (W-2 only)"
+                ]
+            }
+        },
+        {
             "employer_name": "Staffigo",
             "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUzSJLkUwWZK-6qglTi6wyROWJgiOIW_5FvYp&s=0",
             "employer_website": null,
@@ -2259,149 +2334,6 @@
                     "For data Science/Machine learning",
                     "Knowledge of Statistics, Python, data visualization tools",
                     "Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients"
-                ]
-            }
-        },
-        {
-            "employer_name": "Staffigo",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUzSJLkUwWZK-6qglTi6wyROWJgiOIW_5FvYp&s=0",
-            "employer_website": null,
-            "job_publisher": "LinkedIn",
-            "job_id": "bFR9Di_eTdgAAAAAAAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Entry Level Data Analyst",
-            "job_apply_link": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-staffigo-3407963141",
-            "job_description": "About Us\n\nStaffigo is in the business of providing IT Consulting Services to clients in various industries in the United States - Healthcare (Payer, Providers & Clearinghouses), Finance & Banking, Retail & e-commerce. We are currently seeking exceptional entry-level talent for the below role.\n\nJob Description\n\u2022 Create, validate and send daily weekly, and monthly management reports to clients.\n\u2022 Assistance with requests for non-standard reports and analysis for clients.\n\u2022 Support management reporting by maintaining hierarchy information.\n\u2022 Research and answer client's questions.\n\u2022 Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance.\n\u2022 In the report, development lifecycle support impacts analysis and project requirements definition.\n\u2022 Transform client needs into functional requirements. With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements.\n\u2022 Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and solutions. appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community.\n\u2022 Support teamwork and get internal and external client feedback on processes, procedures, and technology.\n\nRequirements\n\u2022 Masters degree in Computer Science, Computer Engineering, or any\n\u2022 related field of study.\n\u2022 No travel; no telecommuting. Job duties are project-based and performed on long-term assignments at\n\u2022 various unanticipated sites within the U.S. which may require relocation at the end of each project.\n\u2022 Advanced Excel skills (pivot tables, v-lookups, charts).\n\u2022 Experience using the relational database system, Oracle preferred.\n\u2022 Excellent oral and written communication skills.\n\u2022 Understanding of software development life cycle.\n\u2022 Must know how to use Power BI or Tableau.\n\u2022 Experience with hands-on and manual data tasks\n\u2022 Excellent analytical skills.\n\u2022 Ability to handle multiple projects under tight deadlines.\n\u2022 Attention to detail and ability to follow instructions and written processes to deliver requirements.\n\nWe do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.\n\nPowered by JazzHR\n\nUDeAW4y8HS",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1669440185,
-            "job_posted_at_datetime_utc": "2022-11-26T05:23:05.000Z",
-            "job_city": "Syracuse",
-            "job_state": "NY",
-            "job_country": "US",
-            "job_latitude": 43.048122,
-            "job_longitude": -76.14742,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=30&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=bFR9Di_eTdgAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-02-19T23:28:23.000Z",
-            "job_offer_expiration_timestamp": 1676849303,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": true
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": true,
-                "degree_mentioned": true,
-                "degree_preferred": true,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Masters degree in Computer Science, Computer Engineering, or any",
-                    "related field of study",
-                    "No travel; no telecommuting",
-                    "Advanced Excel skills (pivot tables, v-lookups, charts)",
-                    "Excellent oral and written communication skills",
-                    "Understanding of software development life cycle",
-                    "Must know how to use Power BI or Tableau",
-                    "Experience with hands-on and manual data tasks",
-                    "Excellent analytical skills",
-                    "Ability to handle multiple projects under tight deadlines",
-                    "Attention to detail and ability to follow instructions and written processes to deliver requirements"
-                ],
-                "Responsibilities": [
-                    "Create, validate and send daily weekly, and monthly management reports to clients",
-                    "Assistance with requests for non-standard reports and analysis for clients",
-                    "Support management reporting by maintaining hierarchy information",
-                    "Research and answer client's questions",
-                    "Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance",
-                    "In the report, development lifecycle support impacts analysis and project requirements definition",
-                    "Transform client needs into functional requirements",
-                    "With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements",
-                    "Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and solutions",
-                    "appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community",
-                    "Support teamwork and get internal and external client feedback on processes, procedures, and technology",
-                    "various unanticipated sites within the U.S. which may require relocation at the end of each project"
-                ]
-            }
-        },
-        {
-            "employer_name": "Dice",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlgydP7sElaJC9qPrtNHwBhyTMHYgii1RPWsy&s=0",
-            "employer_website": null,
-            "job_publisher": "LinkedIn",
-            "job_id": "8OGvMZHsGJQAAAAAAAAAAA==",
-            "job_employment_type": "CONTRACTOR",
-            "job_title": "Data Scientist (remote work)",
-            "job_apply_link": "https://www.linkedin.com/jobs/view/data-scientist-remote-work-at-dice-3442772637",
-            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Everest Consultants, Inc, is seeking the following. Apply via Dice today!\n\nTitle: Data Scientist (100% remote work)\n\nDuration: 3 Month Contract - w/Potential for Hire\n\nPayrate: $55 to $64/hr may vary based on experience (W-2 only)\n\nNOTE - W-2 only (No 1099 or C2C)\n\nNOTE - Must reside and work from one of these states - AZ, CA, CO, FL, IA, GA, IL, MA, MI, MS, NE, NH, NJ, NY, NC, OR, PA, SD, TN, TX, WA, WI\n\nSummary:\n\nInterpret and analyze data using exploratory mathematical and statistical techniques based on the scientific method\n\nAnalyzing customer data to identify patterns and trends that are associated along with churn.\n\nResponsibilities:\n\nApply statistical and machine learning knowledge to specific business problems and data.\n\nBuilding and maintaining predictive and churn models.\n\nEvaluating the performance of predictive, time series, regression, churn models, Neural networks and implementing improvements as needed\n\nCommunicating findings and recommendations to stakeholders through presentations, reports, and other forms of communication\n\nSkills:\n\nWrite code (Python, R, Scala, SQL, etc.) to obtain, manipulate, and analyze data\n\nFamiliar with Data Science/ML stack such as AWS Sagemaker, Jupyter, pandas, numpy, sklearn, Keras, etc.\n\nFamiliar with AWS Data Engineering stack such as Glue, Spark, EMR, Lambda, EKS, etc.\n\nFamiliar with DataRobot\n\nThe following benefits are offered for this position: medical, dental, & vision insurance, short-term disability, life and AD&D insurance, and a 401(k) retirement plan.\n\nEverest Consultants is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, or any other characteristic protected by applicable local, state, or federal civil rights laws. - provided by Dice",
-            "job_is_remote": true,
-            "job_posted_at_timestamp": 1674507742,
-            "job_posted_at_datetime_utc": "2023-01-23T21:02:22.000Z",
-            "job_city": "Des Moines",
-            "job_state": "IA",
-            "job_country": "US",
-            "job_latitude": 41.586834,
-            "job_longitude": -93.62496,
-            "job_benefits": [
-                "retirement_savings",
-                "health_insurance",
-                "dental_coverage"
-            ],
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=30&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=8OGvMZHsGJQAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-02-22T21:02:22.000Z",
-            "job_offer_expiration_timestamp": 1677099742,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": false
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": true,
-                "degree_mentioned": false,
-                "degree_preferred": false,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Write code (Python, R, Scala, SQL, etc.)",
-                    "Familiar with Data Science/ML stack such as AWS Sagemaker, Jupyter, pandas, numpy, sklearn, Keras, etc",
-                    "Familiar with AWS Data Engineering stack such as Glue, Spark, EMR, Lambda, EKS, etc",
-                    "Familiar with DataRobot"
-                ],
-                "Responsibilities": [
-                    "Interpret and analyze data using exploratory mathematical and statistical techniques based on the scientific method",
-                    "Analyzing customer data to identify patterns and trends that are associated along with churn",
-                    "Apply statistical and machine learning knowledge to specific business problems and data",
-                    "Building and maintaining predictive and churn models",
-                    "Evaluating the performance of predictive, time series, regression, churn models, Neural networks and implementing improvements as needed",
-                    "Communicating findings and recommendations to stakeholders through presentations, reports, and other forms of communication",
-                    "to obtain, manipulate, and analyze data"
-                ],
-                "Benefits": [
-                    "Payrate: $55 to $64/hr may vary based on experience (W-2 only)"
                 ]
             }
         },
@@ -2651,106 +2583,27 @@
             "job_highlights": {}
         },
         {
-            "employer_name": "Staffigo",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUzSJLkUwWZK-6qglTi6wyROWJgiOIW_5FvYp&s=0",
+            "employer_name": "Synergistic IT",
+            "employer_logo": null,
             "employer_website": null,
-            "job_publisher": "LinkedIn",
-            "job_id": "TSZrerwS0GAAAAAAAAAAAA==",
+            "job_publisher": "Jooble",
+            "job_id": "PtoDoQnZnjgAAAAAAAAAAA==",
             "job_employment_type": "FULLTIME",
-            "job_title": "Entry Level Data Analyst",
-            "job_apply_link": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-staffigo-3428333636",
-            "job_description": "About Us\n\nStaffigo is in the business of providing IT Consulting Services to clients in various industries in the United States - Healthcare (Payer, Providers & Clearinghouses), Finance & Banking, Retail & e-commerce. We are currently seeking exceptional entry-level talent for the below role.\n\nJob Description\n\u2022 Create, validate and send daily weekly, and monthly management reports to clients.\n\u2022 Assistance with requests for non-standard reports and analysis for clients.\n\u2022 Support management reporting by maintaining hierarchy information.\n\u2022 Research and answer client's questions.\n\u2022 Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance.\n\u2022 In the report, development lifecycle support impacts analysis and project requirements definition.\n\u2022 Transform client needs into functional requirements. With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements.\n\u2022 Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and solutions. appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community.\n\u2022 Support teamwork and get internal and external client feedback on processes, procedures, and technology.\n\nRequirements\n\u2022 Masters degree in Computer Science, Computer Engineering, or any\n\u2022 related field of study.\n\u2022 No travel; no telecommuting. Job duties are project-based and performed on long-term assignments at\n\u2022 various unanticipated sites within the U.S. which may require relocation at the end of each project.\n\u2022 Advanced Excel skills (pivot tables, v-lookups, charts).\n\u2022 Experience using the relational database system, Oracle preferred.\n\u2022 Excellent oral and written communication skills.\n\u2022 Understanding of software development life cycle.\n\u2022 Must know how to use Power BI or Tableau.\n\u2022 Experience with hands-on and manual data tasks\n\u2022 Excellent analytical skills.\n\u2022 Ability to handle multiple projects under tight deadlines.\n\u2022 Attention to detail and ability to follow instructions and written processes to deliver requirements.\n\nWe do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.\n\nPowered by JazzHR\n\n2ql7DFMgbL",
+            "job_title": "Entry level data scientist",
+            "job_apply_link": "https://jooble.org/jdp/-7269870817535516091/Entry-level-data-scientist-California-City%2C-CA",
+            "job_description": "SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need\n\nWe are looking for Jobseekers wanting to file H1b visa\nPosition open to all visas and US citizens\n\nWe at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few.\n\nWe have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java developers, Data analysts/ Data Scientists.\n\nWe welcome candidates with all visas and citizens to apply.\n\nWe assist in filing for STEM extension and also for H1b and Green card filing to Candidates looking to upskill/enhance their IT skills.\n\nCandidates who are serious about their future in the IT Industry and have set big goals for themselves.\n\nCandidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes\n\nCandidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement\n\nWe are looking for Jobseekers wanting to file H1b visa\nPosition open to all visas and US citizens\n\nCandidates who Lack Experience\nHave had a break in careers\nLack Technical Competency\nDifferent visa candidates who want to get employed and settle down in the USA\n\nplease also check the below links\n\nREQUIRED SKILLS\n\u2022 Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n\u2022 Highly motivated, self-learner, and technically inquisitive\n\u2022 Experience in programming language Java and understanding of the software development life cycle\n\u2022 Knowledge of Statistics, Python, data visualization tools\n\u2022 Excellent written and verbal communication skills\nPreferred skills: NLP, Text mining, Tableau, Time series analysis\nPlease understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.\n\nNo third party candidates or c2c candidates\nTo apply for this position, please apply to the posting\n\nNo phone calls please . Shortlisted candidates would be reached out",
             "job_is_remote": false,
-            "job_posted_at_timestamp": 1670822770,
-            "job_posted_at_datetime_utc": "2022-12-12T05:26:10.000Z",
-            "job_city": "Atlanta",
-            "job_state": "GA",
+            "job_posted_at_timestamp": 1674345600,
+            "job_posted_at_datetime_utc": "2023-01-22T00:00:00.000Z",
+            "job_city": "California City",
+            "job_state": "CA",
             "job_country": "US",
-            "job_latitude": 33.748753,
-            "job_longitude": -84.38769,
+            "job_latitude": 35.1258,
+            "job_longitude": -117.9859,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=40&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=TSZrerwS0GAAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-02-05T05:26:10.000Z",
-            "job_offer_expiration_timestamp": 1675574770,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": true
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": true,
-                "degree_mentioned": true,
-                "degree_preferred": true,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Masters degree in Computer Science, Computer Engineering, or any",
-                    "related field of study",
-                    "No travel; no telecommuting",
-                    "Advanced Excel skills (pivot tables, v-lookups, charts)",
-                    "Excellent oral and written communication skills",
-                    "Understanding of software development life cycle",
-                    "Must know how to use Power BI or Tableau",
-                    "Experience with hands-on and manual data tasks",
-                    "Excellent analytical skills",
-                    "Ability to handle multiple projects under tight deadlines",
-                    "Attention to detail and ability to follow instructions and written processes to deliver requirements"
-                ],
-                "Responsibilities": [
-                    "Create, validate and send daily weekly, and monthly management reports to clients",
-                    "Assistance with requests for non-standard reports and analysis for clients",
-                    "Support management reporting by maintaining hierarchy information",
-                    "Research and answer client's questions",
-                    "Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance",
-                    "In the report, development lifecycle support impacts analysis and project requirements definition",
-                    "Transform client needs into functional requirements",
-                    "With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements",
-                    "Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and solutions",
-                    "appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community",
-                    "Support teamwork and get internal and external client feedback on processes, procedures, and technology",
-                    "various unanticipated sites within the U.S. which may require relocation at the end of each project"
-                ]
-            }
-        },
-        {
-            "employer_name": "IBM",
-            "employer_logo": "https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg",
-            "employer_website": "http://www.ibm.com",
-            "job_publisher": "Texas Jobs - Tarta.ai",
-            "job_id": "QdZY8jo3XQMAAAAAAAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Entry Level   Associate Data Scientist (Commercial)",
-            "job_apply_link": "https://texas.tarta.ai/j/G_THv4IB1CjJbXOrJl110822-entry-level-associate-data-scientist-commercial-at-ibm",
-            "job_description": "Key Job Details\n\u2022 Country/Region:US\n\u2022 State:MULTIPLE\n\u2022 City:Multiple Cities\n\u2022 Category:Data Science\n\u2022 Required Education:Bachelor's Degree\n\u2022 Position Type:Entry Level\n\u2022 Employment Type:Full-Time\n\u2022 Contract Type:Regular\n\u2022 Company:(0147) International Business Machines Corporation\n\u2022 Req ID:432159BR\n\u2022 Travel Required:Up to 100% or 5 days a week (home on weekends \u2013 based on project requirements)\n\nAs an Associate Data Scientist at IBM, you will help transform our clients\u2019 data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it\u2019s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live.\n\nYour Role and Responsibilities\nWork you could do as an Associate Data Scientist:\n\u2022 Implement and validate predictive and prescriptive models, create and maintain statistical models with a focus on big data.\n\u2022 Incorporate a variety of statistical and machine learning techniques in your projects.\n\u2022 Write programs to cleanse and integrate data in an efficient and reusable manner.\n\u2022 Use leading edge and open-source tools such as Python, R, and TensorFlow, combined with IBM tools and our AI application suites.\n\u2022 Work in an Agile, collaborative environment, partnering with other scientists, engineers, consultants and database administrators of all backgrounds and disciplines to bring analytical rigor and statistical methods to the challenges of predicting behaviors.\n\u2022 Communicate with internal and external clients to understand and define business needs and appropriate modelling techniques to provide analytical solutions.\n\u2022 Evaluate modelling results and communicate the results to technical and non-technical audiences.\n\nLocations:\nAtlanta, GA\nCambridge, MA\nChicago, IL\nDallas, TX\nHouston, TX\nNew York, NY\nSan Francisco, CA\nWashington DC\n\nRequired Technical and Professional Expertise\n\u2022 Ability to look at things differently, debug, troubleshoot, design and implement solutions to complex technical issues.\n\u2022 Strong technical and analytical abilities, a knack for driving impact and growth, and experience with a programming/scripting in a language such as Java or Python.\n\u2022 Basic understanding of statistical programming in a language such as R, Python, or SAS, SPSS, MATLAB.\n\u2022 Basic understanding of Cloud (AWS, Azure, etc.).\n\u2022 Excellent verbal and written communication skills.\n\u2022 Work or internship experience using data science tools in a corporate environment.\n\u2022 Interest in, understanding of, or experience with Design Thinking and Agile Development Methodologies.\n\u2022 Willingness to travel up to 100% of the time.\n\nPreferred Majors:\nComputer Science, Data Science, Applied Mathematics, Statistics, Cognitive Science, Artificial Intelligence, Business Intelligence, Operations Research, Engineering\n\nPreferred Technical and Professional Expertise\nN/A\n\nAbout Business Unit\n\nIBM\u2019s Cloud and Cognitive software business is committed to bringing the power of IBM\u2019s Cloud and Watson/AI technologies to life for our clients and ecosystem partners around the world. IBM provides you with the most comprehensive and consistent approach to development, security and operations across hybrid environments\u2014with complete software solutions for business and IT operations, development, data science, security, and management. Our experts and software capabilities help organizations develop applications once and deploy them anywhere, integrate security across the breadth of their IT estate, and automate operations with management visibility. With IBM, you also have access to new skills and methods, governance and management approaches, and a deep ecosystem of industry experts and partners.\n\nYour Life @ IBM\n\nThis job requires you to provide your COVID-19 vaccination status with supporting documentation, where legally permissible.\n\nAre you craving to learn more? Prepared to solve some of the world\u2019s most unique challenges? And ready to shape the future for millions of people? If so, then it\u2019s time to join us, express your individuality, unleash your curiosity and discover new possibilities.\n\nEvery IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change \u2013 to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.\n\nIt\u2019s time to define your career.\n\nLocation Statement\n\nIBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to:\n\u2022 12 weeks of paid parental bonding leave. Family care options are also available to support eligible employees during COVID-19.\n\u2022 World-class training and educational resources on our personalized, AI-driven learning platform. IBM\u2019s learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goals.\n\u2022 Well-being programs to support mental and physical health.\n\u2022 Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.).\n\u2022 Select educational reimbursement opportunities.\n\u2022 Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe.\n\u2022 Giving and volunteer programs to benefit charitable organizations and local communities.\n\u2022 Discounts on retail products, services, and experiences.\n\nWe consider qualified applicants with criminal histories, consistent with applicable law.\n\nBeing You @ IBM\n\nIBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1674172800,
-            "job_posted_at_datetime_utc": "2023-01-20T00:00:00.000Z",
-            "job_city": "Dallas",
-            "job_state": "TX",
-            "job_country": "US",
-            "job_latitude": 32.776665,
-            "job_longitude": -96.79699,
-            "job_benefits": [
-                "paid_time_off",
-                "dental_coverage",
-                "health_insurance",
-                "retirement_savings"
-            ],
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=40&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=QdZY8jo3XQMAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-03-21T00:00:00.000Z",
-            "job_offer_expiration_timestamp": 1679356800,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=30&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=PtoDoQnZnjgAAAAAAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
             "job_required_experience": {
                 "no_experience_required": false,
                 "required_experience_in_months": null,
@@ -2765,7 +2618,7 @@
                 "associates_degree": false,
                 "bachelors_degree": false,
                 "degree_mentioned": true,
-                "degree_preferred": false,
+                "degree_preferred": true,
                 "professional_certification_mentioned": false
             },
             "job_experience_in_place_of_education": false,
@@ -2775,40 +2628,13 @@
             "job_salary_period": null,
             "job_highlights": {
                 "Qualifications": [
-                    "Required Education:Bachelor's Degree",
-                    "Ability to look at things differently, debug, troubleshoot, design and implement solutions to complex technical issues",
-                    "Strong technical and analytical abilities, a knack for driving impact and growth, and experience with a programming/scripting in a language such as Java or Python",
-                    "Basic understanding of statistical programming in a language such as R, Python, or SAS, SPSS, MATLAB",
-                    "Basic understanding of Cloud (AWS, Azure, etc.)",
-                    "Excellent verbal and written communication skills",
-                    "Work or internship experience using data science tools in a corporate environment",
-                    "Interest in, understanding of, or experience with Design Thinking and Agile Development Methodologies",
-                    "Willingness to travel up to 100% of the time",
-                    "Computer Science, Data Science, Applied Mathematics, Statistics, Cognitive Science, Artificial Intelligence, Business Intelligence, Operations Research, Engineering",
-                    "We consider qualified applicants with criminal histories, consistent with applicable law"
-                ],
-                "Responsibilities": [
-                    "Travel Required:Up to 100% or 5 days a week (home on weekends \u2013 based on project requirements)",
-                    "As an Associate Data Scientist at IBM, you will help transform our clients\u2019 data into tangible business value by analyzing information, communicating outcomes and collaborating on product development",
-                    "Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options",
-                    "Whether it\u2019s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live",
-                    "Implement and validate predictive and prescriptive models, create and maintain statistical models with a focus on big data",
-                    "Incorporate a variety of statistical and machine learning techniques in your projects",
-                    "Write programs to cleanse and integrate data in an efficient and reusable manner",
-                    "Use leading edge and open-source tools such as Python, R, and TensorFlow, combined with IBM tools and our AI application suites",
-                    "Work in an Agile, collaborative environment, partnering with other scientists, engineers, consultants and database administrators of all backgrounds and disciplines to bring analytical rigor and statistical methods to the challenges of predicting behaviors",
-                    "Communicate with internal and external clients to understand and define business needs and appropriate modelling techniques to provide analytical solutions",
-                    "Evaluate modelling results and communicate the results to technical and non-technical audiences"
-                ],
-                "Benefits": [
-                    "In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to:",
-                    "12 weeks of paid parental bonding leave",
-                    "Family care options are also available to support eligible employees during COVID-19",
-                    "World-class training and educational resources on our personalized, AI-driven learning platform",
-                    "Well-being programs to support mental and physical health",
-                    "Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.)",
-                    "Select educational reimbursement opportunities",
-                    "Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe"
+                    "Different visa candidates who want to get employed and settle down in the USA",
+                    "Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
+                    "Highly motivated, self-learner, and technically inquisitive",
+                    "Experience in programming language Java and understanding of the software development life cycle",
+                    "Knowledge of Statistics, Python, data visualization tools",
+                    "Excellent written and verbal communication skills",
+                    "Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients"
                 ]
             }
         },
@@ -3023,52 +2849,6 @@
                     "U.S. Citizenship may be required for positions requiring a U.S. government security clearance"
                 ]
             }
-        },
-        {
-            "employer_name": "SynergisticIT",
-            "employer_logo": null,
-            "employer_website": null,
-            "job_publisher": "WhatJobs",
-            "job_id": "u2CVqoQFyWwAAAAAAAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Entry level data analyst /Data scientist/Jr Java Developer/Software developer",
-            "job_apply_link": "https://www.whatjobs.com/jobs/Entry-level-data/newark-new-jersey/1356418296",
-            "job_description": "SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need Position open for all visas and US citizens We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, bank of america, visa, walmart labs etc to name a few. We have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java developers, Data analysts/ Data Scientists. Who Should Apply Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry We welcome candidates with all visas and citizens to apply. We assist in filing for STEM extension and also for H1b and Green card filing to Candidates Candidates who are serious about their future in the IT Industry and have set big goals for themselves. Candidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes Candidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement Candidates who Lack Experience Have had a break in careers Lack Technical Competency Different visa candidates who want to get employed and settle down in the USA please also check the below links If not a match candidates can opt for Skill enhancement For data Science/Machine learning REQUIRED SKILLS Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT Highly motivated, self-learner, and technically inquisitive Experience in programming language Java and understanding of the software development life cycle Knowledge of Statistics, Python, data visualization tools Excellent written and verbal communication skills Preferred skills: NLP, Text mining, Tableau, Time series analysis REQUIRED SKILLS For java /Software Programmers Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT Highly motivated, self-learner, and technically inquisitive Experience in programming language Java and understanding of the software development life cycle Knowledge of Core Java , javascript , C++ or software programming Spring boot, Microservices and REST API's experience Excellent written and verbal communication skills Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients. No third party candidates or c2c candidates Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients. please apply to the posting No phone calls please. Shortlisted candidates would be reached out",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1674259200,
-            "job_posted_at_datetime_utc": "2023-01-21T00:00:00.000Z",
-            "job_city": "Newark",
-            "job_state": "NJ",
-            "job_country": "US",
-            "job_latitude": 40.735657,
-            "job_longitude": -74.17236,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=40&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=u2CVqoQFyWwAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-01-28T00:50:00.000Z",
-            "job_offer_expiration_timestamp": 1674867000,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": true
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": true,
-                "degree_preferred": true,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {}
         },
         {
             "employer_name": "RecruitTalent",
