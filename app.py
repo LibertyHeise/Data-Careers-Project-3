@@ -39,10 +39,14 @@ def jobs():
 def states_table():
     return render_template("states.html")
 
+@app.route("/state_analysis")
+def state_charts():
+    return render_template("state_charts.html")
+
 @app.route("/jobs_table")
 def jobs_table():
-    return render_template("jobs.html")
+    return render_template("jobs_nice.html")
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+    app.run(debug=True, port=5002)
 
