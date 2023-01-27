@@ -20,7 +20,6 @@ In order to run the code within this project, you will need to create an API key
 4.  Website Creation
 5.  Results
 6.  Where to Next
-7.  Instructions on how to run the code
 
 ## Overview of Data
 
@@ -73,8 +72,8 @@ The JS code, the app.py folder, index.html as well as the database all needed ad
 
 
 ## Where to Next
+Our hope in creating this data website is to insure recent graduates of a certification program are able to locate and work towards entry level jobs in which they are qualified and also to present what specific areas of skill levels are asked for so students can begin to taylor and prepare for presentation and interviews as they move forward.  
 
 
-## Instructions on how to run the code
 
 
