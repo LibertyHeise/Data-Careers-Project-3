@@ -45,7 +45,7 @@ def state_charts():
 
 @app.route("/jobs_table")
 def jobs_table():
-    return render_template("jobs_nice.html")
+    return render_template("jobs.html")
 
 if __name__ == '__main__':
     app.run(debug=True, port=5002)
