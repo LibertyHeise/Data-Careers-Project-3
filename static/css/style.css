@@ -64,6 +64,20 @@ html {
 }
 
 .table tbody tr:hover td, .table tbody tr:hover th {
+  border-color: black;
+  tr:
+    /* <tr style="text-align: right;">
+      <th>employer_name</th>
+      <th>job_title</th>
+      <th>job_apply_link</th>
+      <th>job_description</th>
+      <th>job_is_remote</th>
+      <th>job_city</th>
+      <th>job_state</th>
+      <th>job_country</th>
+      <th>job_latitude</th>
+      <th>job_longitude</th>
+    </tr> */
   color: white !important;
   background-color: #17a2b8 !important;
 }
