@@ -1,6 +1,6 @@
 {
     "status": "OK",
-    "request_id": "ea460539-aa6d-4c0c-98ab-0c8a0f0dae06",
+    "request_id": "bfd81ce4-e294-4cbd-b808-2dd91534b831",
     "data": [
         {
             "employer_name": "National Security Agency",
@@ -1137,10 +1137,10 @@
             "job_latitude": 39.739235,
             "job_longitude": -104.99025,
             "job_benefits": [
-                "paid_time_off",
+                "health_insurance",
                 "dental_coverage",
                 "retirement_savings",
-                "health_insurance"
+                "paid_time_off"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=pu4ks3ytBz0AAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-02-17T03:50:48.000Z",
@@ -1276,8 +1276,8 @@
             "job_benefits": [
                 "retirement_savings",
                 "dental_coverage",
-                "health_insurance",
-                "paid_time_off"
+                "paid_time_off",
+                "health_insurance"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=S_5C05pe-h8AAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": null,
@@ -1423,10 +1423,10 @@
             "job_latitude": 42.201153,
             "job_longitude": -85.58,
             "job_benefits": [
-                "retirement_savings",
-                "dental_coverage",
+                "health_insurance",
                 "paid_time_off",
-                "health_insurance"
+                "dental_coverage",
+                "retirement_savings"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=Va7NJJxj7tgAAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-04-30T00:00:00.000Z",
@@ -1986,10 +1986,10 @@
             "job_latitude": 37.562992,
             "job_longitude": -122.32552,
             "job_benefits": [
+                "health_insurance",
                 "paid_time_off",
                 "dental_coverage",
-                "retirement_savings",
-                "health_insurance"
+                "retirement_savings"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=Arivu6Ihx8cAAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-03-14T00:00:00.000Z",
@@ -2364,8 +2364,8 @@
             "job_longitude": -97.74306,
             "job_benefits": [
                 "retirement_savings",
-                "paid_time_off",
-                "health_insurance"
+                "health_insurance",
+                "paid_time_off"
             ],
             "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=30&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=zBY3JW0bxf4AAAAAAAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-02-25T13:54:39.000Z",
@@ -3381,80 +3381,6 @@
             "job_highlights": {}
         },
         {
-            "employer_name": "Staffigo Technical Services, LLC",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
-            "employer_website": null,
-            "job_publisher": "Trabajo.org",
-            "job_id": "N_8BOftgSQgAAAAAAAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Entry Level Data Analyst",
-            "job_apply_link": "https://us.trabajo.org/job-1275-20230125-389164c15f69811e8fe94828a27e2c02",
-            "job_description": "About us\n\nStaffigo is in the business of providing IT Consulting Services to clients in various industries in the United States - Healthcare (Payer, Providers & Clearinghouses), Finance & Banking, Retail & e-commerce. We are currently seeking exceptional entry-level talent for the below role.\n\nJob Description\n\u2022 Create, validate and send daily weekly, and monthly management reports to clients.\n\u2022 Assistance with requests for non-standard reports and analysis for clients.\n\u2022 Support management reporting by maintaining hierarchy information.\n\u2022 Research and answer client's questions.\n\u2022 Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance.\n\u2022 In the report, development lifecycle support impacts analysis and project requirements definition.\n\u2022 Transform client needs into functional requirements. With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements.\n\u2022 Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and solutions. appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community.\n\u2022 Support teamwork and get internal and external client feedback on processes, procedures, and technology.\n\nRequirements\n\u2022 Masters degree in Computer Science, Computer Engineering, or any\n\u2022 related field of study.\n\u2022 No travel; no telecommuting. Job duties are project-based and performed on long-term assignments at\n\u2022 various unanticipated sites within the U.S. which may require relocation at the end of each project.\n\u2022 Advanced Excel skills (pivot tables, v-lookups, charts).\n\u2022 Experience using the relational database system, Oracle preferred.\n\u2022 Excellent oral and written communication skills.\n\u2022 Understanding of software development life cycle.\n\u2022 Must know how to use Power BI or Tableau.\n\u2022 Experience with hands-on and manual data tasks\n\u2022 Excellent analytical skills.\n\u2022 Ability to handle multiple projects under tight deadlines.\n\u2022 Attention to detail and ability to follow instructions and written processes to deliver requirements.\n\nWe do not discriminate based on race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.\n\n]]>",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1674642859,
-            "job_posted_at_datetime_utc": "2023-01-25T10:34:19.000Z",
-            "job_city": "New York",
-            "job_state": "NY",
-            "job_country": "US",
-            "job_latitude": 40.712776,
-            "job_longitude": -74.005974,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=50&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=N_8BOftgSQgAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-02-01T00:00:00.000Z",
-            "job_offer_expiration_timestamp": 1675209600,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": true
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": true,
-                "degree_preferred": true,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Masters degree in Computer Science, Computer Engineering, or any",
-                    "related field of study",
-                    "No travel; no telecommuting",
-                    "Advanced Excel skills (pivot tables, v-lookups, charts)",
-                    "Excellent oral and written communication skills",
-                    "Understanding of software development life cycle",
-                    "Must know how to use Power BI or Tableau",
-                    "Experience with hands-on and manual data tasks",
-                    "Excellent analytical skills",
-                    "Ability to handle multiple projects under tight deadlines",
-                    "Attention to detail and ability to follow instructions and written processes to deliver requirements"
-                ],
-                "Responsibilities": [
-                    "Create, validate and send daily weekly, and monthly management reports to clients",
-                    "Assistance with requests for non-standard reports and analysis for clients",
-                    "Support management reporting by maintaining hierarchy information",
-                    "Research and answer client's questions",
-                    "Perform business-to-system analysis and troubleshooting analysis of complex management reports and business problems with guidance",
-                    "In the report, development lifecycle support impacts analysis and project requirements definition",
-                    "Transform client needs into functional requirements",
-                    "With guidance, collect, analyze and document business requirements for project proposals including but not limited to process and data flow, user interface, security, and reporting requirements",
-                    "Together with managers and/or senior analysts, participate in cross-functional meetings where customers are interviewed to understand customer needs and identify problems and solutions",
-                    "appropriate solutions, develop specifications, analyze and document business processes, validate testing processes, and train the user community",
-                    "Support teamwork and get internal and external client feedback on processes, procedures, and technology",
-                    "various unanticipated sites within the U.S. which may require relocation at the end of each project"
-                ]
-            }
-        },
-        {
             "employer_name": "CareerBuilder-US",
             "employer_logo": null,
             "employer_website": null,
@@ -3525,6 +3451,74 @@
                     "Skill Enhancement",
                     "Opportunity to work with Fortune 500 Companies",
                     "Estimated Salary: $20 to $28 per hour based on qualifications"
+                ]
+            }
+        },
+        {
+            "employer_name": "RecruitTalent",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfXo5Zt61oqLOaOl9E8pkpJlO-e_9SX5xuvst&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "BrTrwv6fuMsAAAAAAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Mid-Level Data Scientist",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/mid-level-data-scientist-at-recruittalent-3415085014",
+            "job_description": "As a Mid-Level Data Engineer, this role focuses specifically on the development and maintenance of scalable data stores that supply big data in forms needed for business analysis. The best athlete candidate for this position will be able to apply advanced consulting skills, extensive technical expertise, and full industry knowledge to develop innovative solutions to complex problems. This candidate is able to work without considerable direction and may mentor or supervise other team members.\n\nThis position will require up to 25% travel at the CCMD location.\n\nWhat We're Looking For\n\u2022 Someone with a solid background developing solutions for high volume, low latency applications and can operate in a fast-paced, highly collaborative environment.\n\u2022 A candidate with distributed computer understanding and experience with SQL, Spark, and ETL.\n\u2022 A person who appreciates the opportunity to be independent, creative, and challenged.\n\u2022 An individual with a curious mind, passionate about solving problems quickly and bringing innovative ideas to the table.\n\u2022 Experience supporting diverse CCMD requirements\n\nBasic Qualifications\n\u2022 4+ years of experience with SQL\n\u2022 4+ years of experience developing data pipelines using modern Big Data ETL technologies like NiFi or StreamSets.\n\u2022 4+ years of experience with a modern programming language such as Python or Java\n\u2022 4 years of experience working in a big data and cloud environment\n\u2022 Secret Clearance or higher\n\nAdditional Qualifications\n\u2022 2 years of experience working in an agile development environment\n\u2022 Ability to quickly learn technical concepts and communicate with multiple functional groups\n\u2022 Ability to display a positive, can-do attitude to solve the challenges of tomorrow\n\u2022 Possession of excellent verbal and written communication skills\n\u2022 Preferred experience at the respective command with an understanding of analytical and data paint points and challenges across the J-Codes.\n\nMust be a US citizen\n\n2-3 days onsite at Herndon VA or crystal city VA",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1670175411,
+            "job_posted_at_datetime_utc": "2022-12-04T17:36:51.000Z",
+            "job_city": "Herndon",
+            "job_state": "VA",
+            "job_country": "US",
+            "job_latitude": 38.969555,
+            "job_longitude": -77.3861,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=entry+level+data+scientist+in+usa&start=50&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=entry+level+data+scientist+in+usa&htidocid=BrTrwv6fuMsAAAAAAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-02-27T17:40:51.000Z",
+            "job_offer_expiration_timestamp": 1677519651,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 48,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Someone with a solid background developing solutions for high volume, low latency applications and can operate in a fast-paced, highly collaborative environment",
+                    "A candidate with distributed computer understanding and experience with SQL, Spark, and ETL",
+                    "A person who appreciates the opportunity to be independent, creative, and challenged",
+                    "An individual with a curious mind, passionate about solving problems quickly and bringing innovative ideas to the table",
+                    "Experience supporting diverse CCMD requirements",
+                    "4+ years of experience with SQL",
+                    "4+ years of experience developing data pipelines using modern Big Data ETL technologies like NiFi or StreamSets",
+                    "4+ years of experience with a modern programming language such as Python or Java",
+                    "4 years of experience working in a big data and cloud environment",
+                    "Secret Clearance or higher",
+                    "2 years of experience working in an agile development environment",
+                    "Ability to quickly learn technical concepts and communicate with multiple functional groups",
+                    "Ability to display a positive, can-do attitude to solve the challenges of tomorrow",
+                    "Possession of excellent verbal and written communication skills",
+                    "Must be a US citizen"
+                ],
+                "Responsibilities": [
+                    "As a Mid-Level Data Engineer, this role focuses specifically on the development and maintenance of scalable data stores that supply big data in forms needed for business analysis",
+                    "This position will require up to 25% travel at the CCMD location"
                 ]
             }
         }
