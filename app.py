@@ -35,17 +35,17 @@ def jobs():
     # Return the data as a JSON object
     return jsonify(jobs_data)
 
-@app.route("/states_table")
+@app.route("/templates/states_table")
 def states_table():
-    return render_template("states.html")
+    return render_template("/templates/states.html")
 
 @app.route("/state_analysis")
 def state_charts():
-    return render_template("state_charts.html")
+    return render_template("/templates/state_charts.html")
 
 @app.route("/jobs_table")
 def jobs_table():
-    return render_template("jobs.html")
+    return render_template("/templates/jobs.html")
 
 if __name__ == '__main__':
     app.run(debug=True, port=5002)
