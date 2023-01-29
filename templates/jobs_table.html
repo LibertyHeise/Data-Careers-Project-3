@@ -1,6 +1,54 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Bootstrap Visualization Dashboard</title>
+
+  <!-- Boostrap Stylesheet -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+  <!-- Our own CSS stylesheet -->
+  <link rel="stylesheet" href="static/css/style.css" media="screen">
+</head>
+<body>
+  <!-- Start of navbar -->
+  <nav class="navbar navbar-expand-lg navbar-custom">
+    <div class="container-fluid">
+      <div class="col-xs-9 phone-nav">
+        <a class="navbar-brand" href="#" id="logo">Jobs Infomation</a>
+      </div>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div>
+        <ul class="nav navbar-nav justify-content-end">
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"
+              aria-haspopup="true">
+              All Tables + Analysis<span class="caret"></span>
+            </a>
+            <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                aria-expanded="false">Plots <span class="caret"></span></a> -->
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="templates/jobs_table.html">Jobs Data Table</a></li>
+              <li><a class="dropdown-item" href="template/states_table.html">States Data Table</a></li>
+              <li><a class="dropdown-item" href="template/.html">Jobs Analysis Charts</a></li>
+              <li><a class="dropdown-item" href="template/states_charts.html">States Analysis Charts</a></li>
+            </ul>
+          </li> 
+        </ul>
+      </div>
+    </div>
+  </nav>
 <table border="1" class="dataframe table table-striped table-bordered">
   <thead>
     <tr style="text-align: right;">
