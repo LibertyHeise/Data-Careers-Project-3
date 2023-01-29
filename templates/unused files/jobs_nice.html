@@ -1,3 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Bootstrap Visualization Dashboard</title>
+
+  <!-- Boostrap Stylesheet -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+      <!-- D3 JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+  <!--Bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/style.css')}}">
+
+</head>
+
+<body>
+  <!-- Start of Header-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center"
+        style="background-image: url(https://humsci.stanford.edu/sites/default/files/styles/hero_1170x560_xlarge_2x/public/Data%20science%20image%20high%20res.jpg?h=8ada21b5&itok=YeY51Aj_); background-size: 100%;">
+        <h1 style="color: #FFFFFF;">Data Analysts/Science Dashboard</h1>
+        <p style="color: #FFFFFF;">Use the interactive map below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <!--Do these need a reference to the templates file?-->
+        <a class="btn btn-info btn-lg" href="/templates/" role="button">States Analysis Charts</a>
+        <a class="btn btn-warning btn-lg" href="/templates/" role="button">Jobs Analysis Charts</a>
+        <a class="btn btn-success btn-lg" href="/templates/states_table.html" role="button">States Data Table</a>
+        <a class="btn btn-danger btn-lg" href="/templates/jobs_table.html" role="button">Jobs Data Table</a>
+        <hr>
+      </div>
+    </div>
+
 <div class="table-responsive">
     {% include jobs.html %}
 </div>
